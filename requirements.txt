@@ -1,0 +1,12 @@
+# Core Frameworks
+Django
+djangorestframework
+
+# Database Driver for PostgreSQL
+psycopg2-binary
+
+# CORS headers for API security
+django-cors-headers
+
+# Environment variable management
+dotenv
